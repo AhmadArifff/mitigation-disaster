@@ -22,4 +22,4 @@ So, please follow the steps below to contribute to this project.
 7. Wait for the review
 
 Read these documentation for more information:
-- [Integrate Laravel Pint to PHPStorm]()
+- [Integrate Laravel Pint to PHPStorm](https://github.com/alifnuryana/mitigation-disaster/blob/feature/setup-project/docs/LARAVEL_PINT.md)
